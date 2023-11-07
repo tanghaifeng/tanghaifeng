@@ -1,2 +1,1 @@
 - 👋 Hello World
-- java、go、python
